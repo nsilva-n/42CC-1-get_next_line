@@ -101,12 +101,7 @@ int main() {
 
 *Test thy creation to ensure its strength:*
 
-Run the provided test cases to validate your implementation:
-```bash
-make test
-```
-
-Or create your own test files to ensure correctness and edge-case handling. For example:
+Create your own test files to ensure correctness and edge-case handling. For example:
 - Files with no newline characters.
 - Files with extremely long lines.
 - Empty files.
